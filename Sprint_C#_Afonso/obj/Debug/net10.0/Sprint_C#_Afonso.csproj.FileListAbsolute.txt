@@ -1,0 +1,14 @@
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\bin\Debug\net10.0\Sprint_C#_Afonso.exe
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\bin\Debug\net10.0\Sprint_C#_Afonso.deps.json
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\bin\Debug\net10.0\Sprint_C#_Afonso.runtimeconfig.json
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\bin\Debug\net10.0\Sprint_C#_Afonso.dll
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\bin\Debug\net10.0\Sprint_C#_Afonso.pdb
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\Sprint_C#_Afonso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\Sprint_C#_Afonso.AssemblyInfoInputs.cache
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\Sprint_C#_Afonso.AssemblyInfo.cs
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\Sprint_C#_Afonso.csproj.CoreCompileInputs.cache
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\Sprint_C#_Afonso.dll
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\refint\Sprint_C#_Afonso.dll
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\Sprint_C#_Afonso.pdb
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\Sprint_C#_Afonso.genruntimeconfig.cache
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\ref\Sprint_C#_Afonso.dll
