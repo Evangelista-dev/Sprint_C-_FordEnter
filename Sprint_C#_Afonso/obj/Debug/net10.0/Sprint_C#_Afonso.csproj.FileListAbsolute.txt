@@ -12,3 +12,4 @@ C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\D
 C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\Sprint_C#_Afonso.pdb
 C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\Sprint_C#_Afonso.genruntimeconfig.cache
 C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\ref\Sprint_C#_Afonso.dll
+C:\Users\026.067744\Desktop\Pasta_Afonso\Sprint_C#_Afonso\Sprint_C#_Afonso\obj\Debug\net10.0\Sprint_C#_Afonso.sourcelink.json
